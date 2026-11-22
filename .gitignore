@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+secrets/
+.chrome/
+cookies/
+*.log
+.DS_Store

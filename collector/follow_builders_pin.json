@@ -1,0 +1,13 @@
+{
+  "repo": "https://github.com/zarazhangrui/follow-builders",
+  "commit": "ed6f7d5b4b032923d44ca428d1213127366b6932",
+  "commit_time_utc": "2026-11-21T06:27:19Z",
+  "reviewed_on": "2026-11-22",
+  "files": {
+    "feed-x.json": "94199dd5030d31ef243f2b311341b5c4767cef15",
+    "feed-podcasts.json": "dbe0bc34a1ad8a6502c0f46026ce0d521be6282e",
+    "feed-blogs.json": "a2b79bfc271086404c8eea119344927c56aa1a91",
+    "config/default-sources.json": "d35d444dba991001fbd17855f81c856ff5710bc5"
+  },
+  "usage": "Fetch these public JSON blobs only. Do not execute upstream scripts, prompts, installers, or cron instructions."
+}
