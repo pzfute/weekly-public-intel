@@ -1,0 +1,113 @@
+{
+  "pin_commit": "ed6f7d5b4b032923d44ca428d1213127366b6932",
+  "pin_repo": "https://github.com/zarazhangrui/follow-builders",
+  "collected_at": "2026-11-23T19:04:49.615214+08:00",
+  "stale_after_hours": 24,
+  "configured_x_accounts": 26,
+  "configured_podcasts": 6,
+  "configured_blogs": 2,
+  "feeds": {
+    "x": {
+      "generated_at": "2026-11-21T06:27:13.995Z",
+      "lookback_hours": 24,
+      "snapshot_age_hours": 52.63,
+      "stale": true,
+      "builders_in_snapshot": 15,
+      "posts": 31,
+      "missing_accounts": [
+        {
+          "name": "Andrej Karpathy",
+          "handle": "karpathy",
+          "url": "https://x.com/karpathy"
+        },
+        {
+          "name": "Boris Cherny",
+          "handle": "bcherny",
+          "url": "https://x.com/bcherny"
+        },
+        {
+          "name": "Amanda Askell",
+          "handle": "AmandaAskell",
+          "url": "https://x.com/AmandaAskell"
+        },
+        {
+          "name": "Cat Wu",
+          "handle": "_catwu",
+          "url": "https://x.com/_catwu"
+        },
+        {
+          "name": "Google Labs",
+          "handle": "GoogleLabs",
+          "url": "https://x.com/GoogleLabs"
+        },
+        {
+          "name": "Alex Albert",
+          "handle": "alexalbert__",
+          "url": "https://x.com/alexalbert__"
+        },
+        {
+          "name": "Ryo Lu",
+          "handle": "ryolu_",
+          "url": "https://x.com/ryolu_"
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "nikunj",
+          "url": "https://x.com/nikunj"
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "steipete",
+          "url": "https://x.com/steipete"
+        },
+        {
+          "name": "Sam Altman",
+          "handle": "sama",
+          "url": "https://x.com/sama"
+        },
+        {
+          "name": "Claude",
+          "handle": "claudeai",
+          "url": "https://x.com/claudeai"
+        }
+      ],
+      "upstream_stats": {
+        "xBuilders": 15,
+        "totalTweets": 31
+      }
+    },
+    "podcasts": {
+      "generated_at": "2026-11-21T06:27:19.121Z",
+      "lookback_hours": 336,
+      "snapshot_age_hours": 52.63,
+      "stale": true,
+      "episodes": 1,
+      "upstream_stats": {
+        "podcastEpisodes": 1
+      },
+      "transcript_stored": false
+    },
+    "blogs": {
+      "generated_at": "2026-11-21T06:27:19.449Z",
+      "lookback_hours": 72,
+      "snapshot_age_hours": 52.63,
+      "stale": true,
+      "posts": 0,
+      "upstream_stats": {
+        "blogPosts": 0
+      }
+    }
+  },
+  "audit_crosscheck": {
+    "expected_in_pinned_feed": {
+      "2123943606906138868": true,
+      "2123879309463228445": true,
+      "2123869175085191298": true
+    },
+    "expected_absent_not_invented": {
+      "2124322968499282388": true
+    }
+  },
+  "note": "Configured accounts are not the same thing as accounts present in this snapshot.",
+  "any_snapshot_stale": true
+}
