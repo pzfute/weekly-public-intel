@@ -1,7 +1,7 @@
 {
   "pin_commit": "ed6f7d5b4b032923d44ca428d1213127366b6932",
   "pin_repo": "https://github.com/zarazhangrui/follow-builders",
-  "collected_at": "2026-11-23T19:04:49.615214+08:00",
+  "collected_at": "2026-11-24T20:49:53.290995+08:00",
   "stale_after_hours": 24,
   "configured_x_accounts": 26,
   "configured_podcasts": 6,
@@ -10,7 +10,7 @@
     "x": {
       "generated_at": "2026-11-21T06:27:13.995Z",
       "lookback_hours": 24,
-      "snapshot_age_hours": 52.63,
+      "snapshot_age_hours": 78.38,
       "stale": true,
       "builders_in_snapshot": 15,
       "posts": 31,
@@ -79,7 +79,7 @@
     "podcasts": {
       "generated_at": "2026-11-21T06:27:19.121Z",
       "lookback_hours": 336,
-      "snapshot_age_hours": 52.63,
+      "snapshot_age_hours": 78.38,
       "stale": true,
       "episodes": 1,
       "upstream_stats": {
@@ -90,7 +90,7 @@
     "blogs": {
       "generated_at": "2026-11-21T06:27:19.449Z",
       "lookback_hours": 72,
-      "snapshot_age_hours": 52.63,
+      "snapshot_age_hours": 78.38,
       "stale": true,
       "posts": 0,
       "upstream_stats": {

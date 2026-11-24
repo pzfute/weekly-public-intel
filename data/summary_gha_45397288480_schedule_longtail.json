@@ -1,0 +1,15 @@
+{
+  "run_id": "gha_45397288480_schedule_longtail",
+  "planned_at": "2026-11-24T10:30:00+08:00",
+  "planned_at_kind": "schedule_timestamp",
+  "actual_start": "2026-11-24T20:49:49.023187+08:00",
+  "actual_end": "2026-11-24T20:49:50.858215+08:00",
+  "result_count": 15,
+  "new_count": 1,
+  "dup_count": 14,
+  "failed_count": 0,
+  "cost_usd": "0",
+  "model_inference": 0,
+  "paid_api_calls": 0,
+  "demand_type": "discussion"
+}

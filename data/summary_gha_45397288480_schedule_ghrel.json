@@ -1,0 +1,15 @@
+{
+  "run_id": "gha_45397288480_schedule_ghrel",
+  "planned_at": "2026-11-24T10:30:00+08:00",
+  "planned_at_kind": "schedule_timestamp",
+  "actual_start": "2026-11-24T20:49:50.926558+08:00",
+  "actual_end": "2026-11-24T20:49:53.219792+08:00",
+  "result_count": 9,
+  "new_count": 0,
+  "dup_count": 9,
+  "failed_count": 0,
+  "cost_usd": "0",
+  "model_inference": 0,
+  "paid_api_calls": 0,
+  "authed": true
+}

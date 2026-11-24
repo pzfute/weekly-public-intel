@@ -1,0 +1,14 @@
+{
+  "run_id": "gha_45397288480_schedule_ai",
+  "planned_at": "2026-11-24T10:30:00+08:00",
+  "planned_at_kind": "schedule_timestamp",
+  "actual_start": "2026-11-24T20:49:48.281712+08:00",
+  "actual_end": "2026-11-24T20:49:48.954382+08:00",
+  "result_count": 7,
+  "new_count": 3,
+  "dup_count": 4,
+  "failed_count": 0,
+  "cost_usd": "0",
+  "model_inference": 0,
+  "paid_api_calls": 0
+}

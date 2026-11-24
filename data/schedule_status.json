@@ -9,9 +9,10 @@
   ],
   "required_schedule_successes": 3,
   "successful_schedule_dates": [
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
   ],
-  "successful_schedule_count": 1,
+  "successful_schedule_count": 2,
   "manual_counts": false,
   "last_trigger": "schedule",
   "last_status": "ok",
@@ -20,6 +21,6 @@
   "weekly_timezone": "Asia/Shanghai",
   "weekly_active": false,
   "switch_result": "still_acceptance",
-  "next_schedule_cst": "2026-11-24T10:30:00+08:00",
-  "updated_at": "2026-11-23T19:04:49.961764+08:00"
+  "next_schedule_cst": "2026-11-25T10:30:00+08:00",
+  "updated_at": "2026-11-24T20:49:54.304452+08:00"
 }
